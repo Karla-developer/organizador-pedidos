@@ -1,0 +1,14 @@
+﻿ID Pedido,Fecha,Cliente,Producto,Monto USD,Estado,Notas
+P01,2024-02-18,Anna C.,Tapete tejido,35,Pagado,Enviar a Bogotá
+P02,2024-03-19,Carlos M.,Cerámica roja,45,Pendiente,"Cliente dice que pagó, revisar transferencia"
+P03,2024-03-19,Thiare P.,Aretes de filigrana,28,Entregado,Enviado 20/09 por paquetería. Clienta confirmó que le llegó el 22/09
+P04,2024-04-19,Sofía R.,Bolsa tejida,45,Entregado,Pagó el mismo día. Enviado por Correo 20/09. Clienta confirmó entrega 22/09: feliz con el producto
+P05,2024-06-20,José H.,Juego de tazas de barro,60,Pendiente,Esperando pago por Mercado Pago
+P06,2024-06-20,Isaura G.,Joyería,75,Pagado,Cliente reclama: dice que nunca recibió pedido anterior
+P07,2024-06-20,Lucía V.,Rebozo,90,Enviado,Enviado 21/09. Falta mandarle el número de guía a la clienta
+P08,2024-07-21,Dorothy L.,Cojín bordado,40,Entregado,"Clienta dice que llegó roto, pide cambio"
+P09,2024-08-21,Javier S.,Caja de artesanías surtidas,120,Entregado,Pagado (sin fecha). En preparación. Cliente reporta no haber recibido
+P010,2024-09-22,Valeria T.,Tapete tejido,35,Pagado,
+P011,2024-10-22,Roberto M.,Portavasos de palma,22,Pagado,Enviar a Guadalajara
+P012,2024-10-23,Camila O.,Cerámica azul,55,Pagado,Enviar a Monterrey. Envolver para regalo
+P013,2024-10-23,Karla R.,Taza de Startup,100,Pendiente,"Enviado a Chile, pendiente confirmación"
